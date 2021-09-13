@@ -1,8 +1,6 @@
 import cv2
 
-cap1= cv2.VideoCapture('rtsp://contralor:Villegas555@100.100.34.184/cgi-bin/main.cgi')
-
-cap2= cv2.VideoCapture('rtsp://contralor:Villegas555@100.100.34.179/cgi-bin/main.cgi')
+cap1= cv2.VideoCapture('rtsp://contralor:Villegas555@192.168.102.98/cgi-bin/main.cgi')
 
 
 while(True):
